@@ -1,0 +1,8 @@
+Kosaraju (sparse): 1.000
+Kosaraju (dense): 1.000
+Kahn (sparse): 1.000
+Kahn (dense): 1.000
+DagShortestPath (sparse): 1.000
+DagShortestPath (dense): 1.000
+Kruskal (sparse): 1.038
+Kruskal (dense): 1.012
